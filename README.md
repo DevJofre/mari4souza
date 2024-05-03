@@ -12,7 +12,7 @@
 Me interesso tanto por front quanto por back-end, e minhas principais linguagens são Java e JavaScript. 
 Eu estudo e me atualizo na área da tecnologia constantemente, pois adoro aprender e utilizar meus conhecimentos para criar soluções inovadoras!
 
-#
+
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
@@ -47,7 +47,7 @@ Eu estudo e me atualizo na área da tecnologia constantemente, pois adoro aprend
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="docker logo"  />
 </div>
 
-#
+##
 
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
